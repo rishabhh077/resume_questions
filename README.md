@@ -2,7 +2,7 @@
 
 Turn your resume into your interview superpower. Upload a resume (PDF or DOCX), and InterviewPrep AI predicts the questions recruiters will ask, writes personalized sample answers, and runs AI-scored mock interviews.
 
-Built with React, Tailwind CSS, Lucide icons, an Express backend and the Claude API.
+Built with React, Tailwind CSS, Lucide icons, an Express backend and the Clae API.
 
 ## Features
 
